@@ -2,3 +2,6 @@ Develop the Rapid application
 Develop login module with jwt
 Develop RestAPi using Microservices Architecture
 Do the Junit5 testing with mockito
+
+add the new features
+connect with the database 
